@@ -1,5 +1,7 @@
 # MotionGPT: Finetuned LLMs are General-Purpose Motion Generators
 
+[![arXiv](https://img.shields.io/badge/arXiv-<2306.10900>-<COLOR>.svg)](https://arxiv.org/abs/2306.10900)
+
 Please visit our [webpage](https://qiqiapink.github.io/MotionGPT) for more details.
 
 If you find MotionGPT useful for your work please cite:
