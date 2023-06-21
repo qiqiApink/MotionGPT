@@ -1,6 +1,6 @@
 # MotionGPT: Finetuned LLMs are General-Purpose Motion Generators
 
-This is the repository that contains source code for the [MotionGPT website](https://qiqiapink.github.io/MotionGPT).
+Please visit our [webpage](https://qiqiapink.github.io/MotionGPT) for more details.
 
 If you find MotionGPT useful for your work please cite:
 ```
