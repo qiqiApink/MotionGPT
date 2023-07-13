@@ -8,11 +8,10 @@ Please visit our [webpage](https://qiqiapink.github.io/MotionGPT) for more detai
 
 If you find MotionGPT useful for your work please cite:
 ```
-@misc{zhang2023motiongpt,
-      title={MotionGPT: Finetuned LLMs are General-Purpose Motion Generators}, 
-      author={Yaqi Zhang and Di Huang and Bin Liu and Shixiang Tang and Yan Lu and Lu Chen and Lei Bai and Qi Chu and Nenghai Yu and Wanli Ouyang},
-      year={2023},
-      eprint={2306.10900},
-      archivePrefix={arXiv}
+@article{zhang2023motiongpt,
+  title={MotionGPT: Finetuned LLMs are General-Purpose Motion Generators},
+  author={Zhang, Yaqi and Huang, Di and Liu, Bin and Tang, Shixiang and Lu, Yan and Chen, Lu and Bai, Lei and Chu, Qi and Yu, Nenghai and Ouyang, Wanli},
+  journal={arXiv preprint arXiv:2306.10900},
+  year={2023}
 }
 ```
