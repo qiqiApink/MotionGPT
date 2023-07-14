@@ -130,7 +130,7 @@ Give task description (`--prompt`) and conditions (`--input`) to generate corres
 
 Please set `--render` if you want to render SMPL mesh.
 
-```
+```python
 # text-to-motion
 python generate_motion.py --prompt "Generate a sequence of motion tokens matching the following human motion description." --input "a person walks forward." --lora_path ./checkpoints/pretrained_lora/pretrained.pth --out_dir {output_dir} --render
 
