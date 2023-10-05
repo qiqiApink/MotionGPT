@@ -30,7 +30,7 @@ If you find MotionGPT useful for your work please cite:
 
 ## 1. Environment
 ```
-conda create env -f environment.yml
+conda env create -f environment.yml
 conda activate motiongpt
 ```
 
